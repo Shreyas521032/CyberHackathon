@@ -1,4 +1,4 @@
-TruthLens: Technical Documentation
+##🛡️ TruthLens: Fake Narrative Detection System
 
 Problem Statement 4: Fake Narrative: Internet is used for spreading fake narrative by spreading fake news and deep fake videos (using AI). Suggest a technical solution (or algorithm) for 
 flagging deep fake videos circulating on internet and also a technical solution for highlighting fake news. 
@@ -11,7 +11,7 @@ Deepfake videos alongside fabricated news articles contribute a serious danger t
 by uniting machine learning models with real-time operation to identify improper content while marking it for inspection. Our system analyzes both visual content and text through separate 
 pipelines with precision benchmarks and efficient delivery characteristics.
 
-System Architecture Overview
+⚙️ System Architecture Overview
 
 DeepTruth's microservices architecture underlies its high-speed data processing while delivering scalable deployment capabilities. FastAPI stands as the backend framework because it delivers
 high performance in addition to async capabilities. Real-time data processing runs on Redis caching and MongoDB performs persistent storage and management of analysis outcomes and metadata. 
