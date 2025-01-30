@@ -1,9 +1,9 @@
-#🛡️ TruthLens: Fake Narrative Detection System
+🛡️ TruthLens: Fake Narrative Detection System
 
 Problem Statement 4: Fake Narrative: Internet is used for spreading fake narrative by spreading fake news and deep fake videos (using AI). Suggest a technical solution (or algorithm) for 
 flagging deep fake videos circulating on internet and also a technical solution for highlighting fake news. 
 
-Our Proposed Solution:
+📌 Problem Statement
 
 🔍 Introduction
 
