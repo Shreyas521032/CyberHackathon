@@ -2,7 +2,9 @@ ISOT Fake News Dataset
 
 🎯 Overview
 
-The ISOT Fake News Dataset is a collection of news articles categorized into two types: real and fake news. The dataset was compiled from real-world sources, ensuring a reliable benchmark for fake news detection research. The truthful articles were gathered from Reuters.com, while the fake news articles were sourced from various unreliable websites flagged by Politifact and Wikipedia.
+The ISOT Fake News Dataset is a collection of news articles categorized into two types: real and fake news. The dataset was compiled from
+real-world sources, ensuring a reliable benchmark for fake news detection research. The truthful articles were gathered from Reuters.com,
+while the fake news articles were sourced from various unreliable websites flagged by Politifact and Wikipedia.
 
 This dataset primarily consists of political and world news topics, making it a valuable resource for studying misinformation in journalism.
 
@@ -28,7 +30,8 @@ Each article in the dataset includes the following attributes:
 
 The dataset primarily includes articles published between 2016 and 2017, aligning with similar datasets on Kaggle.
 
-The collected data has been cleaned and processed; however, punctuation and spelling mistakes in fake news articles have been preserved to maintain authenticity.
+The collected data has been cleaned and processed; however, punctuation and spelling mistakes in fake news articles have been preserved to 
+maintain authenticity.
 
 🚀 Usage
 
