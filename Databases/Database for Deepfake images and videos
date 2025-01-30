@@ -1,1 +1,44 @@
+Deepfake vs Real Image Dataset
 
+📌 Overview
+
+The Deepfake vs Real Image Dataset is a collection of manipulated and real human face images, intended for deepfake detection research 
+and machine learning applications. The dataset contains real human face images and synthetically generated or manipulated faces created 
+using various deepfake techniques.
+
+The primary goal of this dataset is to enable the development of robust deepfake detection models, aiding in identifying synthetic media
+and improving security against misinformation and identity fraud.
+
+📂 Dataset Composition
+
+This dataset consists of high-quality face images in JPEG format with a resolution of 256 × 256 pixels. The images are divided into two 
+categories:
+
+🟢 Real Images: Authentic human face images.
+
+🔴 Deepfake Images: Faces generated using AI-based synthesis techniques or digital manipulation.
+
+🛠 Data Source & Processing
+
+The dataset originates from Zenodo.
+
+The images have been preprocessed and curated to maximize efficiency for deepfake detection tasks.
+
+The dataset is structured to provide a balanced distribution of real and fake images, ensuring effective training for classification models.
+
+🔎 Applications
+
+This dataset is useful for:
+
+🧠 Deepfake Detection: Training AI models to distinguish real vs. fake images.
+
+🎭 Synthetic Media Analysis: Understanding patterns in AI-generated facial images.
+
+🔬 Computer Vision Research: Improving robustness of face recognition models.
+
+🚀 Cybersecurity & Misinformation Prevention: Identifying fake identities in social media and media industries.
+
+⚠️ Ethical Considerations
+
+While this dataset aids in deepfake detection, it should be used responsibly to ensure ethical AI practices. Misuse of deepfake detection 
+technology can raise privacy concerns and ethical dilemmas regarding digital identity verification.
