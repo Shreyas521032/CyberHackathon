@@ -1,0 +1,19 @@
+We can import data from following source:
+
+1. For deepfake and real images:
+
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("manjilkarki/deepfake-and-real-images")
+
+print("Path to dataset files:", path)
+
+2. For Fake News Detection Dataset
+
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("emineyetm/fake-news-detection-datasets")
+
+print("Path to dataset files:", path)
