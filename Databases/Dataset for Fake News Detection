@@ -1,30 +1,41 @@
-Overview
+ISOT Fake News Dataset
+
+🎯 Overview
 
 The ISOT Fake News Dataset is a collection of news articles categorized into two types: real and fake news. The dataset was compiled from real-world sources, ensuring a reliable benchmark for fake news detection research. The truthful articles were gathered from Reuters.com, while the fake news articles were sourced from various unreliable websites flagged by Politifact and Wikipedia.
 
 This dataset primarily consists of political and world news topics, making it a valuable resource for studying misinformation in journalism.
 
-Dataset Composition
+📂 Dataset Composition
 
 The dataset comprises two CSV files:
 
-True.csv: Contains 12,600+ real news articles collected from Reuters.com.
+📌 True.csv: Contains 12,600+ 📰 real news articles collected from Reuters.com.
 
-Fake.csv: Contains 12,600+ fake news articles sourced from unreliable outlets.
+📌 Fake.csv: Contains 12,600+ 🚨 fake news articles sourced from unreliable outlets.
 
 Each article in the dataset includes the following attributes:
 
-Title: The headline of the news article.
+🏷️ Title: The headline of the news article.
 
-Text: The body content of the article.
+📝 Text: The body content of the article.
 
-Type: The classification of the article (real or fake).
+🔍 Type: The classification of the article (real or fake).
 
-Date: The publication date of the article.
+📅 Date: The publication date of the article.
 
-Data Collection & Processing
+🔄 Data Collection & Processing
 
 The dataset primarily includes articles published between 2016 and 2017, aligning with similar datasets on Kaggle.
 
 The collected data has been cleaned and processed; however, punctuation and spelling mistakes in fake news articles have been preserved to maintain authenticity.
 
+🚀 Usage
+
+This dataset can be used for various Natural Language Processing (NLP) and Machine Learning tasks, such as:
+
+✅ Fake news detection using supervised learning models.
+
+📊 Sentiment analysis to understand biases in news reporting.
+
+📚 Text classification and topic modeling in journalism.
